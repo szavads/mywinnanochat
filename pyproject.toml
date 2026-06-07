@@ -63,12 +63,12 @@ gpu = [
 
 [tool.uv]
 default-groups = []
-
-[tool.ruff]
-exclude = [".venv", ".cache", "wandb", "__pycache__"]
 conflicts = [
     [
         { extra = "cpu" },
         { extra = "gpu" },
     ],
 ]
+
+[tool.ruff]
+exclude = [".venv", ".cache", "wandb", "__pycache__"]

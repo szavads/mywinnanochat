@@ -1,6 +1,4 @@
-﻿# nanochat
-
-![nanochat logo](dev/nanochat.png)
+﻿# nanochat — Windows CPU Exploration
 
 > **Fork of [karpathy/nanochat](https://github.com/karpathy/nanochat)**  
 > Adapted for CPU-only environments on Windows. Includes bug diagnosis, fixes, and a full walkthrough of the LLM training pipeline.

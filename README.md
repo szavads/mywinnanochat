@@ -1,5 +1,7 @@
 ﻿# nanochat — Windows CPU Exploration
 
+[![Lint](https://github.com/szavads/mywinnanochat/actions/workflows/lint.yml/badge.svg?branch=windows-cpu-support)](https://github.com/szavads/mywinnanochat/actions/workflows/lint.yml)
+
 > **Fork of [karpathy/nanochat](https://github.com/karpathy/nanochat)**  
 > Adapted for CPU-only environments on Windows. Includes bug diagnosis, fixes, and a full walkthrough of the LLM training pipeline.
 
